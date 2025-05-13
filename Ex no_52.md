@@ -23,6 +23,7 @@ To write a program to calculate maximum function.
 7.	End.
 
 ## PROGRAM:
+```
 #include<stdio.h>
 void dis(int a ,int b);
 int main()
@@ -40,6 +41,7 @@ dis(int a ,int b); int main()
 int a,b; scanf("%d%d",&a,&b);
 dis(a,b);
 }
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/17d35378-f32e-4769-ac4b-7a51fb1bf813)
